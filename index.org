@@ -1,0 +1,935 @@
+#+title: Wollongong WUCC 2022
+#+setupfile: static/page.setup
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/wucc.css" />
+#+HTML_HEAD: <script type="text/javascript" src="static/wucc.js"></script>
+#+HTML_HEAD: <body onload="initPage();">
+
+#+attr_html: :id logo
+[[file:./static/WU-logo.svg]]
+
+* Information
+- [[https://docs.google.com/spreadsheets/d/1SKBpmlIG7kbxsk5ShhKRjdrqgTzb3N4diu2UVIyk4XE/edit?usp=drivesdk][Team spreadsheet]]
+- [[https://wfdf.sport/wp-content/uploads/2021/10/WUCC-2022-Bulletin-1-Oct21-1.pdf][WFDF bulletin #1 (21 Oct 2021)]]
+  
+* Key dates
+
+#+attr_html: :id calendar
+| Event                        | Date        |             | Notes                            |
+|------------------------------+-------------+-------------+----------------------------------|
+| Training Camp 1              | 8 Jan 2022  | 9 Jan 2022  | 8am-4pm                          |
+| Training Day 1               | 19 Feb 2022 |             | Saturday morning (8:30-12:30)    |
+| Training Day 2               | 19 Mar 2022 |             | Saturday morning                 |
+| Newcastle scrimmage          | 9 Apr 2022  |             | Waratah Park, 11am/1pm/3pm games |
+| Training Weekend 2           | 7 May 2022  | 8 May 2022  | Weekend camp                     |
+| Training Weekend 3 (seeding) | 21 May 2022 | 22 May 2022 | Seeding tournament in Sydney     |
+| Training Weekend 4           | 11 Jun 2022 | 12 Jun 2022 | Weekend camp                     |
+| Training Weekend 5           | 2 Jul 2022  | 3 Jul 2022  | Weekend camp                     |
+| Flight, SYD-HNL              | 16 Jul 2022 |             |                                  |
+| Flight, HNL-JFK              | 18 Jul 2022 |             |                                  |
+| Flight, LGA-CVG              | 22 Jul 2022 |             |                                  |
+| Tournament Accomodation      | 22 Jul 2022 | 31 Jul 2022 |                                  |
+| WUCC 2022, Cincinnati        | 23 Jul 2022 | 30 Jul 2022 |                                  |
+
+* Training focuses
+** Throwing
+- Consistent practice throughout season
+- Favour clinical, direct throws
+- Move away from "into space throws"
+
+** Cutting
+- Controlling/manipulating opponent through positioning and movement
+- Timing, generation, space creation
+- Speed variation
+
+** Defense
+- Controlling/manipulating opponent to acheive outcomes/field position
+- First phase of mark straighter, transitioning to harder around mark + downfield adjustment
+- Look to play brackety/switchy/smart style, in an active (not reactive) way
+- Aim to apply team pressure
+- Break down positions into smaller jobs (ie, job is to push players out of specific space, rather than mark player 69. Idea is to allow mixed matchups and more flexibility)
+
+** Additional
+- Positive inner team dialogue (mistakes acceptable during training, no head down mentality, etc.)
+- How do we think about other teams? Rather than "that fancy American team" we should be thinking about breaking them down. What jobs and roles do we need to control and manipulate their offense or defence? What can we exploit?
+- Visualisation as a training tool
+
+* Training camps/days
+** Training day 2 (19 Mar)
+SCHEDULED: <2022-03-19 Sat>
+*** Rough schedule
+|   8:30--8:45 | Warmup    |
+|   8:45--9:00 | Throwing  |
+|   9:00--9:15 | Poop tube |
+|  9:15--10:00 | Block 1   |
+| 10:15--11:30 | Block 2   |
+| 11:40--12:30 | Block 3   |
+*** Warmup
+**** Part 1 Pysical warmup
+- 50% run
+- Backward run, large steps
+- 50% run
+- Backward skip
+- Casual skips
+- Low intensity shuffle changing side every 4 steps
+**** Part 2 Mobility
+- 5 point lunge
+- High knee hugs
+- Walking quad stretch
+- 3 point SLDL
+- Side middle lunge
+- T-spines
+**** Part 3 Nervous system
+- Power skips
+- Lateral high knee skips
+- High knees
+- Butt kicks
+- Carioca
+- Zombie kicks
+- Five step bursts
+*** Block 1 Offense (45 min)
+- Vert stack cutting pattern
+- Prescriptive structure
+- 5 brick
+- Any D pattern (up to line callers)
+*** Block 2 Defense (75 min)
+- No around drill, 2v2 dump cut
+- No around drill, 3v3 dump cut
+- 5v5, 2-3-2 defence, half field
+- 2-3-2, 6 pull, second 3 with tranny
+*** Block 3 Game (60 min)
+- Game to 15, starting at 10-10, hopefully 2-3 games
+- Alternate group combinations
+** Training day 1 (19 Feb)
+SCHEDULED: <2022-02-19 Sat>
+*** Rough schedule
+|   8:30--8:45 | Warmup   |
+|   8:45--9:00 | Throwing |
+|   9:00--9:15 | Boot     |
+|  9:15--10:15 | Block 1  |
+| 10:30--11:15 | Block 2  |
+| 11:30--12:30 | Block 3  |
+*** Warmup
+**** Part 1 Pysical warmup
+- 50% run
+- Backward run, large steps
+- 50% run
+- Backward skip
+- Casual skips
+- Low intensity shuffle changing side every 4 steps
+**** Part 2 Mobility
+- 5 point lunge
+- High knee hugs
+- Walking quad stretch
+- 3 point SLDL
+- Side middle lunge
+- T-spines
+**** Part 3 Nervous system
+- Power skips
+- Lateral high knee skips
+- High knees
+- Butt kicks
+- Carioca
+- Zombie kicks
+- Five step bursts
+*** Block 1 Cutting/Help D
+- Cutting, 1v1 open side
+- Cutting, 3v3 open side
+- 5 brick, no dump, open side throws only
+- 5 brick, help D + vert
+*** Block 2 Dump 
+- Dump, starting position lateral
+- Dump, starting position front of stack
+- Dump, starting position behind
+- Endzone 5 pull, alternate starting positions
+*** Block 3 Game
+- Games to 5
+- Alternate group combinations
+- Different line caller each point
+** Training camp 1
+SCHEDULED: <2022-01-08 Sat>--<2022-01-09 Sun>
+*** Attendance
+| Player   | Status                               |
+|----------+--------------------------------------|
+| Abby     | Y                                    |
+| Callum   | Y                                    |
+| Coby     | Y                                    |
+| Mandy    | Y                                    |
+| Jayden   | Y                                    |
+| Tim      | Y                                    |
+| Jack     | Y                                    |
+| Mon      | Y                                    |
+| Kevin    | Y                                    |
+| Matt     | Y                                    |
+| Rachel   | Y                                    |
+| Arun     | Y                                    |
+| Sam      | Y                                    |
+| Thea     | Y                                    |
+| Nobu     | Y (leaving 3pm Sat)                  |
+| Aidan    | Sun only                             |
+| Goose    | ? (waiting on housemate PCR result)  |
+| Hannah C | ?                                    |
+| Annie    | Covid Iso                            |
+| Andy     | N                                    |
+| Hannah M | N                                    |
+| Gemma    | N                                    |
+| Taylor   | N                                    |
+
+*** Rough schedule
+|     Saturday |                    |
+|--------------+--------------------|
+| 11:00--12:00 | Intro + warmup     |
+| 12:00--13:30 | Block 1 (90 min)   |
+| 13:30--14:00 | Lunch              |
+| 14:00--15:30 | Block 2 (90 min)   |
+| 15:30--16:00 | Small scrim        |
+|  19:00--late | Optional cool down |
+
+|       Sunday |                    |
+|--------------+--------------------|
+| 10:30--11:00 | Warmup             |
+| 11:00--12:30 | Block 3 (90 min)   |
+| 12:30--13:30 | Lunch              |
+| 13:30--14:00 | Warmup             |
+| 14:00--15:30 | Scrimmage v Gong   |
+| 15:30--16:00 | Cooldown + debreif |
+*** DONE Warmup
+**** Part 1 Pysical warmup
+- 50% run
+- Backward run, large steps
+- 50% run
+- Backward skip
+- Casual skips
+- Low intensity shuffle changing side every 4 steps
+**** Part 2 Mobility
+- 5 point lunge
+- High knee hugs
+- Walking quad stretch
+- 3 point SLDL
+- Side middle lunge
+- T-spines
+**** Part 3 Nervous system
+- Power skips
+- Lateral high knee skips
+- High knees
+- Butt kicks
+- Carioca
+- Zombie kicks
+- Five step bursts
+**** Part 4 Throwing set
+*** DONE Block 1 Defence
+- Explaination of help defense
+- Explaination of what we are trying to acheive:
+  - Force a long throw
+  - Force floaty throw to break side (either IO or over top)
+  - Prevent anything open side
+  - Prevent dump reset up to 45deg behind
+- Run throughs from static/brick start
+- Run throughs from pull
+*** DONE Block 2 Throwing(/receiving)
+- Explaination of throwing style/practice focus
+- Static throwing
+- Drill for throwing medium-deep (bhand/flick/hammer)
+- Hot box (2v2) + receiver zone (2v1) drill
+*** DONE Block 3 Cutting
+- Explaination of cutting focuses for the team
+  - Consistent option generation
+  - Manipulation and creation of space
+- Drill for creation of inside break space
+- Drill for creation of space for others during poachy D
+- Run throughs (enforced cutting styles)
+- Mini game (receiver elimination)
+* Weekly trainings
+Wednesdays, 6am-7am, Wiseman's Park
+** Schedule
+
+| Session | Date       | Focus                            |
+|---------+------------+----------------------------------|
+|       1 | 12/01/2021 | Skills (throwing, cutting, mark) |
+|       2 | 19/01/2021 | Skills (throwing, cutting, mark) |
+|       3 | 26/01/2021 | Skills (throwing, cutting, mark) |
+|       4 | 02/02/2021 | Skills (throwing, cutting, mark) |
+|       5 | 09/02/2021 |                                  |
+|       6 | 16/02/2021 |                                  |
+|       7 | 23/02/2021 |                                  |
+|       8 | 02/03/2021 |                                  |
+|       9 | 09/03/2021 |                                  |
+|      10 | 16/03/2021 |                                  |
+|      11 | 23/03/2021 |                                  |
+|      12 | 30/03/2021 |                                  |
+|      13 | 06/04/2021 |                                  |
+|      14 | 13/04/2021 |                                  |
+|      15 | 20/04/2021 |                                  |
+|      16 | 27/04/2021 |                                  |
+|      17 | 04/05/2021 |                                  |
+|      18 | 11/05/2021 |                                  |
+|      19 | 18/05/2021 |                                  |
+|      20 | 25/05/2021 |                                  |
+|      21 | 01/06/2021 |                                  |
+|      22 | 08/06/2021 |                                  |
+|      23 | 15/06/2021 |                                  |
+|      24 | 22/06/2021 |                                  |
+|      25 | 29/06/2021 |                                  |
+|      26 | 06/07/2021 |                                  |
+|      27 | 13/07/2021 |                                  |
+
+** DONE 12/01/2022
+| Time   | Activity                                                  |
+|--------+-----------------------------------------------------------|
+| 5 min  | Warmup                                                    |
+| 15 min | Throwing set                                              |
+| 20 min | Three point mark drill                                    |
+| 20 min | Mini, successful break throw during point = 1 bonus point |
+
+- Throwing set similar to 100 throws (10 Flat BH, 10 IO BH, 10 OI BH, 10 Flat flick...). First 5 throws from static/neutral position. Second 5 with a fake then throw. Before session, each player to decide focus for throws (balanced pivot, increase disc spin, eyes up looking at receiver, etc.)
+- Three point mark drill: Lay out a cone for the thrower/marker and two cones for receivers both 45-90 degrees from each other (start tight and increase to make more difficult). The goal is for the marker to prevent the thrower from throwing to either receiver (for a stall of 10). If receiver has to move outside cone to catch the mark is successful. Receivers replaced by trees/poles/cones if you don't have 4 people.
+#+attr_html: :id markerdrill
+#+begin_diagram
+#+end_diagram
+- Mini, with a successful break throw before the score making goal worth 2 points. Idea it to incentivise a strong mark.
+
+** DONE 19/01/2022
+| Time   | Activity                         |
+|--------+----------------------------------|
+| 5 min  | Warmup                           |
+| 15 min | Throwing set                     |
+| 20 min | Open side cutting drill          |
+| 20 min | Open side cutting brickmark flow |
+
+- Throwing set similar to 100 throws (10 Flat BH, 10 IO BH, 10 OI BH, 10 Flat flick...). First 5 throws from static/neutral position. Second 5 with a fake then throw. Before session, each player to decide focus for throws (balanced pivot, increase disc spin, eyes up looking at receiver, etc.)
+- Open side cutting drill as performed on Sunday morning, training camp 1. Thrower not to throw if cutter not open. Purpose is to practise getting open under, and if not clearing cleanly and efficiently
+- Open side cutting brickmark flow as done training camp 1. 6 players, no dump, open side throws only. Purpose is to complete under cuts. Thrower should allow stall out if no safe options are presented
+** DONE 25/01/2022
+| Time   | Activity                |
+|--------+-------------------------|
+| 5 min  | Warmup                  |
+| 15 min | Throwing set            |
+| 20 min | OI to deep cut throwing |
+| 20 min | Catch/turn/throw drill  |
+
+- Throwing set similar to 100 throws (10 Flat BH, 10 IO BH, 10 OI BH, 10 Flat flick...). First 5 throws from static/neutral position. Second 5 with a fake then throw. Before session, each player to decide focus for throws (balanced pivot, increase disc spin, eyes up looking at receiver, etc.)
+- OI to deep cut, about 20-30 yards, hitting cutter on cone after 20 yard straight cut, then 10 yards @ 45\deg{}. Both open side flick and fat sdie backhand. No mark - mark - handicapped defender.
+- Under cut catch and turning to throw to next player with unkown speed+direction.
+** DONE 02/02/2022
+| Time   | Activity                |
+|--------+-------------------------|
+| 5 min  | Warmup                  |
+| 15 min | Throwing set            |
+| 20 min | Dump cut                |
+| 20 min | Endzone/vert initiation |
+
+- Throwing set similar to 100 throws (10 Flat BH, 10 IO BH, 10 OI BH, 10 Flat flick...). First 5 throws from static/neutral position. Second 5 with a fake then throw. Before session, each player to decide focus for throws (balanced pivot, increase disc spin, eyes up looking at receiver, etc.)
+- 2v2 dump cuts with three cutting options. (1) upline, (2) upline+IO, (3) upline+around
+- 5 pull style endzone play. Dump setting up behind thrower for the backwards dish. Initial options are (1) thrower give go to open side, (2) front of stack break. Is it unstoppable? No, D line will have to figure out how to stop it.
+
+#+attr_html: :id endzoneplay :class inlinesvg
+[[file:./static/endzoneplay.svg]]
+** DONE 09/02/2022
+| Time   | Activity               |
+|--------+------------------------|
+| 10 min | Warm-up + poop tube    |
+| 15 min | Throwing set           |
+| 20 min | Help/bracket D drill   |
+| 15 min | Catch/turn/throw drill |
+
+- Poop tube, 3Ov2D or 4Ov3D 3m wide x 30m long game, D not allowed in endzone (3m long)
+- Throwing set similar to 100 throws (10 Flat BH, 10 IO BH, 10 OI BH, 10 Flat flick...). First 5 throws from static/neutral position. Second 5 with a fake then throw. Before session, each player to decide focus for throws (balanced pivot, increase disc spin, eyes up looking at receiver, etc.)
+- Help D will be 3v3 game where O wants to complete open side pass and D wants to prevent. Specified entry/exit points for O
+- Flow drill style under cut catch and turning to throw to next player with unkown speed+direction. Focus on quick catch+release cycle without proper balance/pivot set
+** DONE 12/02/2022
+| Time   | Activity                               |
+|--------+----------------------------------------|
+| 5 min  | Warm-up                                |
+| 15 min | Throwing set                           |
+| 10 min | Poop tube                              |
+| 30 min | Game, different player calls each line |
+
+- Poop tube, 3Ov2D or 4Ov3D 3m wide x 30m long game, D not allowed in endzone (3m long)
+- Throwing set similar to 100 throws (10 Flat BH, 10 IO BH, 10 OI BH, 10 Flat flick...). First 5 throws from static/neutral position. Second 5 with a fake then throw. Before session, each player to decide focus for throws (balanced pivot, increase disc spin, eyes up looking at receiver, etc.)
+** DONE 05/03/2022
+@ City Beach
+
+| Time   | Activity                       |
+|--------+--------------------------------|
+| 5 min  | Warm-up                        |
+| 15 min | Throwing set                   |
+| 10 min | Boot                           |
+| 30 min | Game, vert O, gender bracket D |
+
+- Throwing set similar to 100 throws (10 Flat BH, 10 IO BH, 10 OI BH, 10 Flat flick...). First 5 throws from static/neutral position. Second 5 with a fake then throw. Before session, each player to decide focus for throws (balanced pivot, increase disc spin, eyes up looking at receiver, etc.)
+- Boot game, hoping that defense can come up with some winning strategies
+- Start working through gender bracket (not ideal on beach, expecting low numbers so may need to improvise game intent)
+
+** DONE 27/03/2022
+
+| Time   | Activity                            |
+|--------+-------------------------------------|
+| 5 min  | Warm-up                             |
+| 15 min | Throwing set                        |
+| 10 min | Poop tube                           |
+| 30 min | Mini, continuous, alternating rules |
+
+* Goals/motivations [24/24]
+1. What are you hoping to get out of the experience on a personal
+   level/why did you sign up?
+2. What are you hoping for on a team level/what do you want success
+   for the team to look like?
+** Hidden                                                          :noexport:
+3. From now until April the plan is to hold one WUCC training a week
+   (knowing that everyone will also be training a couple of times a
+   week with their nationals clubs). To help manage workload/recovery
+   these will likely be short, focused sessions, probably 60 minutes.
+   For players that can't attend (living outside God's country) do you
+   have any ideas on what your training might look like? Would it be
+   helpful for me to send out a quick write up of the session each
+   week for you to adapt it? Any ideas on how we can include out of
+   towners in training? This is something I think will be a challenge,
+   but it important to get right, so keen to hear ideas.
+4. Not planning to prescribe any fitness/strength training, with the
+   expectation that people understand their own bodies and how to
+   manage this aspect of training. That being said, I have access to
+   professionally developed ulti specific training programs for both
+   gym and conditioning/fitness. If you'd like some guidance or help
+   setting up a program in this area let me know.
+5. Will you be there for this weekend's training camp (8-9th Jan)?
+   11am-4pm Sat, 10:30-4pm Sun, I'll send out a schedule in the next
+   few days.
+6. Finally, anything that might be relevent for me to know (current
+   injuries, only playing if you don't get a call up from the crocs,
+   anecdotes, interesting jokes)? Will remain confidential where
+   required
+** DONE Abby
+1. I signed up to this team because I’ve always wanted to go to WUCC
+   and the team I had somewhat committed to (Phoenix of HoS) that was
+   trying to get to WUCC decided not to go. I then played for this
+   team at the ACT Championships and had lots of fun. In the past two
+   years, I’ve made two national teams (U20 womens and U24 mixed) but
+   neither competed at worlds so I’m excited to finally compete
+   overseas. I’m hoping to learn how to better train and prepare for
+   elite competition, both in terms of fitness and skill development.
+2. On a team level, I want success to look like everyone focussing and
+   working hard at trainings, and keeping up individual fitness and
+   ideally throwing everyday to gain consistency between trainings. At
+   the tournament, I want the team to do their very best, to keep
+   spirits high which in turn aids with team flow, for everyone to
+   know what they are supposed to be doing, and to keep having fun.
+*** Hidden                                                         :noexport:
+3. As I live in Melbourne, I won’t be able to attend weekly trainings.
+   I will however plan to make any and all the training camps run. I
+   would greatly appreciate if you would send out quick write ups of
+   each session so I can at least somewhat keep up with what the rest
+   of the team is doing. On top of that, I will be training for Spicy
+   Chilly and doing at least one weekly pod for them and I’ve been
+   throwing everyday for a couple of weeks to increase my throwing
+   range and consistency. I will also be rejoining the gym as soon as
+   I can find the best deal for my money to continue proper strength
+   and conditioning. To try and include out-of-towners, something
+   simple that could be done is asking everyone to post a selfie or
+   pic after they’ve podded or trained. That at least fosters some
+   feelings of togetherness and that everyone else is training (if not
+   literally) with you.
+4. I think I might be able to manage with a program I had going
+   pre/early COVID but I may want some guidance with setting up a
+   better program at some point.
+5. I have already booked my flights to and from so yes I will
+   definitely be there this weekend.
+6. I have a chronically dodgy right thumb (hyperextended it like 4
+   years ago then got the wrong rehab for it so it never healed
+   properly) but that allowed me to learn how to throw left handed
+   (I’ve been working on that recently so I can confuse my defense at
+   some point hopefully).
+I hope this helps somewhat!
+** DONE Taylor
+1. keen to level up, work hard with a team to achieve a goal.
+2. I think we should set ourselves a target of top 20 teams. Idk
+   what's reasonable given I have no idea how many teams have entered,
+   but I expect high quality ultimate from all of us
+*** Hidden                                                         :noexport:
+3. I like the idea of a write up. I found it useful to revisit what
+   I'd learnt and the focus of the team's if we were playing poorly or
+   needed to re focus. As for out of towners, maybe a weekly POD for
+   them to do, whether it be drills, throws etc
+4. That's fair enough but I do think there should be training
+   expectations. - e.g.you are expected to train an additional 2 X
+   sessions of whatever you want in your own time. I also think a
+   Facebook page with weekly 'week 1 - post your sweaty selfies'
+   should be used. It was very ehlpful at maintaining motivation
+   during the stingrays campaign
+5. I won't be at the training camp, I told Annie before Christmas, I
+   hope that's okay. Sorry 🙁
+6. No injuries. Sadly no jokes (please keep the no jokes bit
+   confidential 😉 )
+** DONE Mon
+1. Always look forward to international tournaments and great
+   opportunity to be playing in Wollongong colors over there.
+2. Understand we have a range of skills, so want us to play the best
+   we can, gel as a team and come away from all if not most games
+   happy with how we all played.
+*** Hidden                                                         :noexport:
+4. We are grateful to play with Wollongong as we know training
+   together regularly would be difficult. It would be good to have a
+   Sydney pod going if possible to get a bit of cohesion. Team
+   trainings that have a lot of games, such as scrimmages might
+   benefit. Have to trust individuals to work on basic skills in their
+   own time (or in pods).
+5. Following from above and definitely keen to see programs. I'm
+   nursing niggles and some injuries but they are currently
+   manageable - just need time and commitment to do those rehab
+   exercises.
+6. Yes
+7. Just my two cents. I think having a level headed coach like
+   yourself will be beneficial. Balance between playing
+   'instinctively' and having structure. Drilling bad habits out and
+   good habits in, learning each other's playing style and playing to
+   our strengths.
+** DONE Gemma                                                      :noexport:
+Heya Maggi, thanks for checking in! Not really sure what the selectors
+told you but I am very unlikely to actually be playing WUCC as I have
+more surgeries to come this year. I think I was selected as a
+placeholder for someone else with a more functional body! Sorry this
+isn't very helpful for your planning but basically I can be factored
+out of most of your thinking
+** DONE Hannah C
+1. Really excited to be playing at a worlds level and experiencing a
+   new level of ultimate
+2. Hope the team is able to mesh well as a team and build chemistry
+   and play off each other’s strengths
+*** Hidden                                                         :noexport:
+3. I’ll be playing nats with manly so I’ll have a pretty intense
+   regime anyway. I think just keeping up to date with what’s
+   happening with the team would be helpful.
+4. Sounds awesome - also got a training plan for manly but will
+   definitely reach out if something comes up
+5. I’ll try - it’s a little tricky with covid atm and I’m living with
+   my parents in Sydney so I’m trying to limit risk to them
+6. Recovering for ankle injury last month - just doing rehab atm
+** DONE Rachel
+1. I want to push myself really hard and improve my fitness and
+   playing ability so that by the time the tournament comes around, I
+   will be putting my absolute best foot forward, for myself and the
+   team. I wanted to play in this team to be able to experience a
+   different calibre of ultimate with my friends and also because
+   Stingrays got cancelled. I can’t wait to feel a part of a strong
+   and united team and ultimately have a lot of fun.
+2. I hope the team is able to find a healthy balance of hard work and
+   good vibes. I am hoping for a competitive team where every
+   individual is working hard, for themselves and for the rest of the
+   team. Working hard for each other is something I believe success
+   will be everyone walking off after the last game believing they did
+   the best they could, and feeling like an integral part of the team.
+   Any other success is a cherry on top.
+*** Hidden                                                         :noexport:
+3.  Keen for WUCC specific training
+4. I would be keen for some extra training resources for running stuff
+5. I’ll be at the camp
+6. My knee is still in recovery, it will still be a while before I can
+   handle a full load but I know how to handle it much better now and
+   it’s limits. Why did the tofu cross the road? To prove it wasn’t
+   chicken 🐓
+** DONE Annie
+1. On a personal level: I want to improve as an individual ultimate
+   player and as a member of the Wollongong Ultimate community. I am
+   especially excited for this opportunity since Bluebottles got
+   cancelled last year! I also want to have A LOT of fun (on the field
+   especially)!
+2. On a team level: I value success as everyone buying into the team
+   and having the same shared interest in the team. I don’t care what
+   the scores of our games are as long as we are playing our
+   collective best as a team. I would like to think we can do this and
+   have a really fun time knowing that we are challenging ourselves
+   and playing our best ultimate.
+*** Hidden                                                         :noexport:
+3. WUCC training: I think it would be beneficial to have a short write
+   up of the sessions for out of towners so they can adapt it. I think
+   an emphasis on the focus/skill of the session would be helpful,
+   then these players can take this focus into their club/ individual
+   training as well.
+4. Individual training program: Yes, I’d be interested in setting up
+   an individual training program. I have some resources from the
+   bluebottles camp but would love to get your opinion on it!
+5. I sadly will most likely not be able to attend the training camp.
+   My housemate tested positive on a rap test for covid yesterday and
+   we both have symptoms. Waiting for a PCR test to confirm! Will let
+6. Additional stuff: I have a sore ankle right now but should be
+   nothing to worry about, am managing it fine! Other than that am
+   SUPER KEEN for everything you have planned! 🤪
+** DONE Nobu
+1. This is going to be my first international tournament and I’m
+   hoping to become a confident player through this opportunity. I’d
+   like to improve not only my skills but also my knowledge/mental
+   strength (in the game) etc.. and eventually boost my confidence
+   level.
+2. I don’t have a clear answer for this yet... It’s probably because I
+   don't know the team yet and also it’s my first time playing this
+   high level tournament. I think maybe I’ll get a better idea of what
+   to expect a bit later?
+*** Hidden                                                         :noexport:
+3. I have club team training 2 days / week and do some pods with team
+   mates 1–2 days / week. I also play NSU league (2 games on Monday)
+   and even though it’s not training, it's a good place for me to try
+   things that I work on to improve. I think it’d be very helpful if
+   you could share what you did/what was the focus in each session.
+4. I have a 2 days a week conditioning/strength session at gym (not
+   frisbee specific), but I’d like to add some fitness sessions
+   (something like agility drills) that I can do on my own. If you
+   could share some ideas for that, that’d be great
+5. I will be there. But maybe leaving a bit early (3pm ish) on
+   Saturday.
+** DONE Mandy
+1. To improve as a player. Become a world-class player
+2. Top half. Want to be able to feel good about how we played each
+   game
+*** Hidden                                                         :noexport:
+3. Zoom session!!!
+4. At the moment my focuses are:
+   - weighted jump squats
+   - pull ups
+   - push ups
+   - abs
+   - sprint training
+Anything else that you think will make a huge difference would be
+good! Also if you know any acl injury prevention exercises would be
+useful
+5. Yes
+6. Can you please add me back in that jokes conversation? I got kicked
+   out 🙁
+** DONE Hannah M                                                   :noexport:
+1. Some good fris, Mandy didn't really give me a choice she just put
+   me in the chat and my name on the list
+2. I don't think this team will be going for a medal so for the team
+   to all be on the same wavelength and following the same plan,
+   putting the team plan first so that everyone can place having
+   enjoyed the experience
+*** Hidden                                                         :noexport:
+3. Lol no idea, session plans and small group drills that can be done
+   my a local group
+4. No thanks I have enough
+5. Maybe, but if I do come I won't be playing cause want to be injury
+   free for Crocs selections
+6. Only playing if I don't make Crocs will have an answer by the end
+   of January hopefully, I'm good at getting injured but also playing
+   through injuries so that shouldn't be a problem
+** DONE Thea
+1. I signed up for this campaign for the opportunity to be a part of a
+   team of likeminded and driven people. International campaigns (from
+   my limited experience) are tough, but the connections built through
+   that collective hard work are like nothing else and that’s what’s
+   really valuable for me! Also for the chance to challenge myself-
+   put everything into a campaign with people I enjoying playing fris
+   with and see what we can achieve:)
+2. I want to see buy in, like Boothy was saying. I want to be a part
+   of a team that is committed to the training, to the connections and
+   building something that we can all be proud of, knowing that we all
+   gave what we could and came off better for it. This is going to be
+   one of the biggest financial commitments I’ve made on my own so far
+   so I’m not here to fuck around lol.
+*** Hidden                                                         :noexport:
+3. Having other bonding events like zoom chats or getting together
+   when we can outside of physical trainings!! I think this is
+   especially important with the unpredictability of covid. I like
+   write ups of sessions - good for reflection and being able to
+   measure progress.
+4. I’d definitely be interested in gym and conditioning programs!! I
+   also think with the individual training side of things that running
+   pods/ sharing training updates on whatever medium is a really good
+   way of showing/encouraging buy in, and gives the team the chance to
+   really get around each other:)
+5. Yes!
+** DONE Holly                                                      :noexport:
+I’m feeling pretty disheartened by the messages coming through in the
+group chat about commitment and prioritizing because it appears people
+are pretty annoyed that I can’t make the training camp because of my
+trip to visit dad. It’s really hard to interpret people over messenger
+but it seems these are somewhat connected to me not being there. I’m
+starting to step back not sure I should be on this team so haven’t
+given your questions much thought.
+** DONE Tim
+1. Represent wollongong, be part of a legacy event
+2. Genuine buy in from all players in lead up. Play to capacity
+*** Hidden                                                         :noexport:
+3. Session a week sounds good. Keeping it basic, uncomplicated and
+   easy to do is important
+4. I think accountability is important if your happy to manage it
+5. Yep
+6. Thanks for your contributions
+** DONE Kevin
+1. When I filled out the EOI, I honestly did not really expect to make
+   the team…I thought it would be an awesome chance to play some
+   high-level ultimate frisbee and build some relationships as I am
+   moving to Wollongong for a new job this year. On a personal level I
+   have the most fun playing ultimate when I and everyone else is
+   playing at a high level and points are competitive. Playing at WUCC
+   would be an opportunity to play such highly competitive and high
+   level frisbee. Furthermore, I am also really excited to be part of
+   a group who are similarly committed and to push each other to
+   improve.
+2. I think the first and most important part of the team’s success is
+   in how we prepare. For me it’s probably harder to juggle priorities
+   and make time for all extra training required than the actual
+   training itself (personally I love playing and training hard). I
+   think a successful campaign is one where everyone has maximised
+   their commitment to train. I am not experienced enough to really
+   know what a good placing at WUCC would be, but once the tournament
+   is over, I feel like we will know if we had performed to our
+   ability.
+*** Hidden                                                         :noexport:
+3. I am currently still in Sydney and am currently find a car and
+   place to live in Wollongong. My job starts Feb 20th but I will be
+   aiming to move down ASAP. In the interim I will be doing my own
+   conditioning and joining scrimmages.
+4. Yes please, I would greatly appreciate.
+5. Yes
+** DONE Callum
+1. Bday tournament, makes sense that all the best teams in the world
+   are there to celebrate my birth. Just wanna have fun and play some
+   good fris
+2. WELL SPIRITED and fun, but also super good team. Get around each
+   other, get hype, and thoroughly enjoy it
+*** Hidden                                                         :noexport:
+3. Sounds good, I’ll try balance it with work
+4. Have my own gym stuff, isn’t ulti specific but it’s almost entirely
+   strength based which is where I have the largest gap in my athletic
+   ability
+5. Sure will. Way to make the Sunday earlier than Saturday to really
+   stitch up the hangover
+6. Legit almost died by choking on my lunch
+** DONE Jayden
+1. Looking forward to palying some high level ultimate against people
+   all around the world and doing it with Wollongong
+2. Hopefully we can enjoy the experience and play high level ultimate.
+   Putting a goal on placing a certain spot or above is probably not
+   an ideal way to set a goal so as long as I think we gave our best
+   in every game then thats good
+*** Hidden                                                         :noexport:
+3. I trust between you and the out of towners we can keep them honest
+   and feeling like part of the team. I dont have any ideas currently
+4. From what I've heard for Jono and Aidan we will already have this
+   sorted for mens
+5.Wouldnt miss it for the world! 6.Eating too much cake is the sin of
+Gluttony, however eating too much pie is ok because the sin of pi is
+always zero.
+** DONE Jack
+1. On a personal level, I am psyched to play a WUCC campaign with
+   Wollongong. I plan on pushing myself more than I ever really have
+   and look forward to matching with some of the best over in the
+   states.
+2. On a team level, I am hoping for some wins of course but I think
+   success would be finding our best level of play and then showing it
+   with reasonable consistency at the tournament.
+*** Hidden                                                         :noexport:
+3. For me, I will probably be making one trip a week to Wollongong and
+   I can look at alternating mixed and open for that, however it is a
+   long drive for a 60 min session. I plan on running fitness based
+   sessions for myself twice a week and body weight workouts 3 times
+   in addition to league twice a week. I do have a routine ripped from
+   GPP but It would still be great to see what the team is training
+   each week so I can look at mirroring it.
+4. As above I guess?
+5. Yes, we will be there.
+6. A personal note that I am excited to have you as a coach especially
+   because of your time playing outside of Wollongong. The team has my
+   heart but I can get frustrated with the over reliance on individual
+   players to "just get free" rather than systems especially around
+   the dump space. That's not to say that it's a Wollongong specific
+   problem but I hope with your time playing at Groot you might have a
+   fresh perspective on that.
+Looking forward to seeing you next weekend!
+** DONE Goose
+1. To me WUCC was always something I saw as unachievable, I didn’t
+   have the commitment or drive to get there, or I never really put
+   the effort into Ultimate as I did other sports. With this
+   opportunity and the physical ability and health I am currently at I
+   would like to see how far I can push myself and truly improve and
+   learn. The ability to be surrounded by such a higher level gives me
+   inspiration to hopefully perform and hold my own.
+2. On a team level, I want success to be both on everyone’s individual
+   focuses, through their growth and development as players. But also,
+   I want to see one cohesive team, everyone at the same level and
+   striving for everyone to be there both spiritually and physically.
+*** Hidden                                                         :noexport:
+3. I like the idea of the Extra WUCC training, have no real ideas for
+   out of towners
+4.  I am looking to continue and vastly improve my fitness habits,
+   although one thing that does limit me is my lack of guidance or
+   structure, I would be quite interested in something on top of the
+   current proof for booth if it is an option,
+5. My current plan is yes, I will be there, however at the time of
+   sending this Wednesday 5th of Jan, one of my housemates Is
+   currently awaiting a negative PCR test after having high symptoms
+   and testing positive on a RAT. This makes me a close contact
+   (morally, technically not til they receive PCR) so if they happen
+   to be negative, I will be there.
+6. Apart from the ever-present ankle frustration no other injuries,
+   always on the look out for more ankle strengthening techniques and
+   skills.
+** DONE Matt
+1. I want to have a great time but I also want to perform really well
+   on an individual and team level and get fitter than I've ever been.
+   I'm looking forward to having a big goal to motivate me. I signed
+   up because I love playing frisbee and have a lot of fun doing it.
+2. Of course I'd love to win games but I think that everyone playing
+   their best individually and as a team is more important even if we
+   don't win tons. I want the team to have a great/fun vibe while
+   simultaneously everyone is still really focused on playing our
+   best. I hope the team will have a really positive, supportive
+   culture
+*** Hidden                                                         :noexport:
+3. Sounds good. Not sure about how to include out of towners in weekly
+   camps
+4. I wouldn't mind having a look at those programs and possibly mixing
+   some of them into my own
+5. yep
+6. nope
+** DONE Aidan
+1. Enjoyable experience with my friends playing the sport I love.
+   Wouldn't have gone with a non-wollongong team.
+2. Be competitive. No goal on placements but I don't want to go over
+   there just for the fun of it. Nationals is fun and a lot closer.
+*** Hidden                                                         :noexport:
+3. Great idea. Could out of towners possibly get in groups in their
+   vicinity? Not sure if this is possible.
+4. proofforbooth.com got me sorted. Here's hoping people can be left
+   to manage themselves successfully.
+5. I unfortunately can't attend the Saturday (had tickets to the
+   cricket before date was announced). Will be there for entirety of
+   Sunday.
+6. N/A
+** DONE Andy
+1. Fun, good memories and new friends.
+2. I want success not to be results driven. I'd rather place 50th and
+   be happy with how the team controlled our game than place 9th and
+   not be proud of our performances. I’d like our goals to be based on
+   things we can control and measure, regardless of who we’re playing
+   against or what the score is.
+*** Hidden                                                         :noexport:
+3. When I’m in God’s country I’ll be able to train with Krank men and
+   mixed hopefully every session. I’m still looking for work so that’s
+   a big unknown for me. I’ll let you know if my job impacts training
+   at all.
+4. I haven’t been as fit as I’d like to be for a very long time. I
+   have had a bunch of injuries in the last few years. When I’m in
+   Gong I’d like to figure out how to get me in good shape for July. I
+   might try and buddy up with people and tag along to their fitness
+   pods and see how I go from there.
+5. I’m unable to go this weekend, I’m going up the coast with Holly,
+   sorry!
+6. I’m keen to help in non playing roles too, happy to chat about
+   session plans and objectives if you ever want to bounce some ideas
+   around.
+** DONE Coby
+1. I'm hoping to get an overseas frisbee experience and also this may
+   be my first chance to have a centralish role on the team
+2. Jaydens thrown around the idea of being in the top half of mixed
+   teams. While it'd be nice I'm quite happy just to form a cohesive
+   team that has chemistry on and off field so that we're always
+   having fun.
+*** Hidden                                                         :noexport:
+3. Maybe we have a training in Sydney at some point but I don't have
+   any ideas for canberra people. Unless people are keen on just a
+   zoom theory session, we did these for goeys and it worked
+   suprisingly well, however i think the demographic of the group may
+   not be as keen
+4. Currently working of p4b and the leftover goeys stuff. Anything
+   else you have for conditioning would be greatly appreciated
+5. Yes
+6. Rehabbing knee and shoulder, should be an issue I cane resolve
+   within the next 3 weeks.
+
+What do you call a chicken with a lettuce leaf on its head?
+** DONE Arun
+1. I have recently re-found a bit of the passion I once had for
+   frisbee. It has been a fluctuating relationship with frisbee in the
+   years I've played but more recently I have felt like I want to
+   reinvest my self into it. I guess my goals were initially to just
+   reimmerse my self into the world and get to a point of performing
+   at a high level again. Nationals was the goal to feel that, but
+   WUCC serves the same purpose.
+2. I'll be honest in that I'm not expecting us to go an win the whole
+   thing... But that is always a goal of sport in itself. But I guess
+   I want us to be able to represent krank to a high standard and show
+   Australia aswell as clubs around the world we deserve to play there
+   and can play at a high level.
+*** Hidden                                                         :noexport:
+3. Not so sure, it's hard... Probably videos? With explanations of
+   whatever it is we are working on so it can be contextualised for
+   out of towners. Not sure. I'll keep thinking.
+4. I will maybe take you up on that, but I do plan on working on
+   things that I have wanted to work on.
+5. Yes.
+6. Yes, I have been battling injuries, a knee niggle and a back niggle
+   at present. Working with a physio to get into op of it, and have
+   voiced my goals to him of wanting to play at a high level. These
+   niggles are also unfortunately something I battle with and can lose
+   motivation from at times, so I'm trying to address them early and
+   build up to not having to worry about them.
+** DONE Sam
+1. I want to improve as much as I can and be involved in a campaign
+   with a great team of people.
+2. I want to be competitive and have fun doing it, I don't have a
+   finishing position in mind. Just put 100% in and see what we can
+   do.
+*** Hidden                                                         :noexport:
+3. My training will be 2 field sessions with Fyshwick plus our gym and
+   running programs. When will the trainings be? I would like to try
+   and make to some of them if I can. I think from an out of town
+   perspective I want to know what our priorities are on O and D and
+   what structures or styles we are going to play. I think a write up
+   would be helpful.
+4. We have a strength coach for Fyshwick so I will be following that.
+5. Yes! I need to sort out some logistics but I will be there.
+6. I don't think the crocs have my number. 😛
+* Comms                                                            :noexport:
+** DONE Initial survey
+SCHEDULED: <2022-01-03 Mon>
+
+Hi XXX,
+
+Hope you've been having a good summer. Annie, Mandy and Jayden have asked me to coach the WUCC team in the lead up to the tournament. I'm unlikely to travel with the team to the US, so my job will be more to do with running trainings rather than holding clipboards.
+
+Just doing a little survey before this weekend's training camp to get an idea of where people are at. A bit of a response to each question would be great.
+
+1. What are you hoping to get out of the experience on a personal level/why did you sign up?
+
+2. What are you hoping for on a team level/what do you want success for the team to look like?
+
+3. From now until April the plan is to hold one WUCC training a week (knowing that everyone will also be training a couple of times a week with their nationals clubs). To help manage workload/recovery these will likely be short, focused sessions, probably 60 minutes. For players that can't attend (living outside God's country) do you have any ideas on what your training might look like? Would it be helpful for me to send out a quick write up of the session each week for you to adapt it? Any ideas on how we can include out of towners in training? This is something I think will be a challenge, but it important to get right, so keen to hear ideas.
+
+4. Not planning to prescribe any fitness/strength training, with the expectation that people understand their own bodies and how to manage this aspect of training. That being said, I have access to professionally developed ulti specific training programs for both gym and conditioning/fitness. If you'd like some guidance or help setting up a program in this area let me know.
+
+5. Will you be there for this weekend's training camp (8-9th Jan)? 11am-4pm Sat, 10:30-4pm Sun, I'll send out a schedule in the next few days.
+
+6. Finally, anything that might be relevent for me to know (current injuries, only playing if you don't get a call up from the crocs, anecdotes, interesting jokes)? Will remain confidential where required.
+** DONE Message about elite/worlds standard
+
+Hey team,
+
+I've been reflecting on everyone's responses to their personal goals and one of the consistent themes is that people want to take their ultimate to the next level. There's a certain calibre that we think of when we imagine a Worlds level player and it's exciting to see so many people coming together at the same time to strive for that.
+
+I've put some thought into how to run the trainings to bring people to that level. I'll be doing my best to run some good sessions and the leadership team is working hard behind the scenes to set up opportunities throughout the season, but there's no way that I, or anyone else, can turn you into a worlds player. That responsibility lies with yourself.
+
+In order to take your game to the next level you have to take ownership of your own journey. There's no set syllabus or recipe to follow, and no one is going to do it for you.
+
+Some of the advice that I would like to offer in this space is:
+
+- Make the most of trainings. Think a lot about what we are doing, and why. Approach drills and exercises mindfully so you can get the most out of your time spent training. Make sure you learn and understand team structures. Show up on time ready to go and prepared for the conditions.
+
+- Practice consistently. Great if you are keen and motivated one week, but consistency over the whole 6 month campaign will be crucial to improving as a player. My advice is to physically write out a training program/schedule/calendar and stick to it, rather than winging it and doing what you feel like. This should apply to fitness, skills/drills, mental strength, everything.
+
+- Learn from other players around you. There's a lot of experience within the team and the larger Wollongong community that you should be drawing from. We have players like Tim who's been through more than 40 worlds campaigns and knows a thing or two. We have players like Mandy and Coby who have been through plenty of youth campaigns. We have worlds players like Rosie, and Steph hanging out in Wollongong. We have Alex H who went to the last WUCC in Cincinatti with Christchurch. There's Jono who knows some stuff about modern elite ultimate. We have international experience in Gemma and Andy. That's just to scratch the surface.
+
+- Surround yourself with others that have the same goal as you. This is one of the things that you might get for free being part of this team, so make the most of it. Train together, run pods together, watch game footage together, brush your teeth together.
+
+Excited to see the team step up to the next level over the next few months. Remember that everyone here is in it together and if you ever need support you just need to ask.
+
+
+On a related note, there was a lot of interest in ultimate specific gym and fitness training. Rather than respond individually, I'll include it in this message. I strongly encourage everyone on the team to look into joining a program. The two I know of are the Ultimate Athlete Program (UAP) and GamePoint Performance (GPP). I have done a season of UAP before and will post up some of the pdfs from when I did it so you can see what it looks like. Don't know much about GPP, but have a chat to Drew or Jono, pretty sure they've used it. If anyone else has any recommendations, make sure to speak up.
+
+UAP pdfs: https://drive.google.com/drive/folders/16Hh2vh0CUSC4cZo65C4ZsbdyW9Qtj-xf?usp=sharing
+
+6 months isn't a heap of time if you're new to gym stuff, but I can guarantee you'll see some pretty massive results in that time regardless. You should be looking to put in 4-5 sessions a week. Key is to start light and get your technique perfect with the gym stuff, and go crazy with the conditioning/core stuff. If you wanted to go the cheapskate option you can use the pdfs. The trick will be deciding which phases to do in the lead up (I can help with that from my limited experience if you ask) and doing the research on proper technique for weighted exercises. Would recommend though that you just pull together some money and properly sign up. Gives you access to all the instructional videos, apps, and an extra sense of accountability. Maybe team up and do a cost share with someone if the cost is a barrier or you want to save some money for your weekly avocado toast.
+
+TLDR: Take personal responsibility for your development = guaranteed to become worlds calibre player, never fails.
+
+* Export on save                                                   :noexport:
+;; Local Variables:
+;; eval: (add-hook 'after-save-hook 'org-html-export-to-html nil t)
+;; End:

@@ -1,0 +1,263 @@
+:root {
+  --accent1: #9a2021;
+  --accent2: #2574a9;
+  --accent3: #73a825;
+  --fg: #333;
+  --bg: #fff;
+}
+
+*, ::before, ::after {
+  box-sizing: border-box;
+  font-family: Sans-serif;
+  line-height: 1.5;
+  font-size: 10pt;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+html {
+  background-image: url("cincinatti.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  overflow-y: scroll;
+}
+
+body {
+  opacity: 98%;
+  width: 90vw;
+  max-width: 150ch;
+  margin: auto;
+  margin-top: 15rem;
+  margin-bottom: 20vh;
+  padding-top: 7vh;
+  padding-bottom: 10vh;
+  background: var(--bg);
+  color: var(--fg);
+  box-shadow: rgba(0,0,0,0.7) 0px 5px 8px;
+}
+
+#content {
+  margin: auto;
+}
+
+#org-div-home-and-up { display: none; }
+
+.title {
+  font-size: 250%;
+  text-align: center;
+  padding-top: 3rem;
+  padding-bottom: 0.5rem;
+  color: var(--fg);
+}
+
+#countdown {
+  margin: auto;
+  margin-bottom: 2rem;
+  width: fit-content;
+  color: var(--accent2);
+}
+
+.countdownbox {
+  display: inline-block;
+  vertical-align: top;
+}
+.countdowndigit {
+  background-color: var(--accent1);
+  color: var(--bg);
+  
+  width: 4rem;
+  height: 3rem;
+  line-height: 3rem;
+  margin: 0.5rem;
+
+  font-size: 150%;
+  font-weight: bold;
+  text-align: center;
+  
+  border-radius: 5px;
+  box-shadow: rgba(0,0,0,0.6) 0px 2px 3px;
+  
+}
+.countdownunit {
+  text-align: center;
+  text-transform: uppercase;
+  color: var(--accent1);
+  font-weight: bold;
+  font-size: 75%;
+}
+
+.countdownspacer {
+  text-align: center;
+  color: var(--accent1);
+  font-size: 200%;
+  font-weight: bold;
+  line-height: 4rem;
+}
+.slash {
+  width: 1rem;
+}
+
+#logo {
+  position: absolute;
+  left: calc(50% - 4rem);
+  top: 11rem;
+  width: 8rem;
+}
+
+.inlinesvg {
+  max-height: 80vh;
+  max-width: 100%;
+  text-align: center;
+}
+
+.outline-2 {
+  margin: auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  max-width: 70ch;
+  width: 90%;
+}
+
+.outline-3 {
+  padding-left: 1.2rem;
+}
+
+h2 {
+  font-size: 140%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  cursor: pointer;
+}
+
+h3 {
+  font-size: 110%;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  cursor: pointer;
+}
+h3:hover, h2:hover {
+  text-decoration: underline;
+}
+
+h4 {
+  margin-top: 1rem;
+}
+
+.droparrow {
+  height: 0.8rem;
+  margin-right: 0.7rem;
+  transform: rotate(-90deg);
+  transition: 0.2s ease-in-out;
+}
+.dropped {
+  transform: rotate(0deg);
+}
+
+.inactive {
+  display: none;
+}
+
+a {
+  color: var(--accent2);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+p {
+  margin-left: 1.5rem;
+}
+
+ul {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  margin-left: 1.5rem;
+}
+
+ol {
+  margin-bottom: 0.5rem;
+  margin-left: 1.7rem;
+}
+ol li {
+  margin-bottom: 0.5rem;
+}
+
+table {
+  margin-top: 0.5rem;
+}
+table {
+  table-layout: fixed;
+  border-collapse: collapse;
+  border-top: 1px grey solid;
+  border-bottom: 1px grey solid;
+}
+th {
+  border-bottom: 1px grey solid;
+  font-weight: bold;
+  text-align: center;
+  padding: 0.2rem;
+  min-width: 6ch;
+}
+td {
+  min-width: 8rem;
+  text-align: center;
+  padding: 0.2rem;
+  padding-left: 0.5rem;
+  padding-right: 2rem;
+}
+tbody tr:nth-child(odd) {
+  background-color: #eee;
+}
+.calpast {
+  text-decoration: line-through;
+}
+.calnow {
+  color: var(--accent1);
+}
+
+.done {
+  display: none;
+}
+.todo {
+  font-size: 70%;
+  color: var(--accent1);
+}
+.todo::before {
+  content: '(';
+}
+.todo::after {
+  content: ')';
+}
+code {
+  display: none;
+}
+
+/* Diagrams */
+.diagram {
+  border: 1pt solid lightgrey;
+  max-width: 500px;
+  max-height: 500px;
+}
+.thrower {
+  stroke: var(--accent1);
+  stroke-width: 3;
+  fill: white;
+}
+.defender {
+  stroke: var(--accent2);
+  stroke-width: 4;
+  fill: none;
+}
+.disc {
+  stroke: black;
+  stroke-width: 2;
+  fill: none;
+}
+.guideline {
+  stroke: grey;
+  stroke-dasharray: 10 10;
+  stroke-width: 1;
+  fill: none;
+}
