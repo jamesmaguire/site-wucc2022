@@ -53,6 +53,29 @@
 - How do we think about other teams? Rather than "that fancy American team" we should be thinking about breaking them down. What jobs and roles do we need to control and manipulate their offense or defence? What can we exploit?
 - Visualisation as a training tool
 
+* Standard warmup
+** Part 1 Pysical warmup
+- 50% run
+- Backward run, large steps
+- 50% run
+- Backward skip
+- Casual skips
+- Low intensity shuffle changing side every 4 steps
+** Part 2 Mobility
+- 5 point lunge
+- High knee hugs
+- Walking quad stretch
+- 3 point SLDL
+- Side middle lunge
+- T-spines
+** Part 3 Nervous system
+- Power skips
+- Lateral high knee skips
+- High knees
+- Butt kicks
+- Carioca
+- Zombie kicks
+- Five step bursts
 * Training camps/days
 ** Training day 2 (19 Mar)
 SCHEDULED: <2022-03-19 Sat>
@@ -238,6 +261,72 @@ SCHEDULED: <2022-01-08 Sat>--<2022-01-09 Sun>
 - Drill for creation of space for others during poachy D
 - Run throughs (enforced cutting styles)
 - Mini game (receiver elimination)
+** Training camp 2
+SCHEDULED: <2022-05-07 Sat>--<2022-05-08 Sun>
+*** Attendance
+| Player   | Status   |
+|----------+----------|
+| Abby     | Y        |
+| Aidan    | Y        |
+| Andy     | Y        |
+| Annie    | Y        |
+| Arun     | Y        |
+| Callum   | Y        |
+| Coby     | Y        |
+| Goose    | Y        |
+| Hannah C | Y        |
+| Hannah N | Y        |
+| Jack     | Y        |
+| Jayden   | Y        |
+| Kevin    | Y        |
+| Louisa   | Y        |
+| Mandy    | Y        |
+| Matt     | Y        |
+| Mon      | Y        |
+| Nobu     | Sun only |
+| Rachel   | Y        |
+| Sam      | Y        |
+| Taylor   | Y        |
+| Thea     | Y        |
+| Tim      | Y        |
+
+*** Rough schedule
+Playing a game throughout the weekend with a few points on between drills. Focus on mentally checking into frisbee mindset.
+
+|     Saturday |                      |
+|--------------+----------------------|
+| 10:00--10:30 | Warmup + throws      |
+| 10:30--10:45 | Game                 |
+| 10:45--12:00 | Block 1 (90 min)     |
+| 12:00--12:15 | Game                 |
+| 12:15--13:00 | Lunch                |
+| 13:00--13:30 | Game                 |
+| 13:30--15:00 | Scrim (gong team)    |
+| 15:00--16:00 | Swing pass/cup drill |
+
+|       Sunday |                       |
+|--------------+-----------------------|
+| 09:00--09:30 | Warmup + throws       |
+| 09:30--09:45 | Game                  |
+| 09:45--10:45 | Block 2 (60 min)      |
+| 10:45--10:00 | Break                 |
+| 11:00--11:30 | Team bonding activity |
+| 11:30--13:00 | Game                  |
+
+*** DONE Block 1 Horo initiation
+- Open side 1v1 cutting drill
+- Two cutters (2v2) cutting (initiating horo movement)
+- 5 pull starting horo, into vert
+
+*** DONE Block 2 Endzone
+- Explaination
+  - Cuts from the front of stack
+  - Clear to back of stack
+  - 3 handlers out
+- 1v1 iso warmup drill
+- 5 pull, starting in front of endzone
+- 5 pull, starting different locations
+
 * Weekly trainings
 Wednesdays, 6am-7am, Wiseman's Park
 ** Schedule
@@ -367,6 +456,16 @@ Wednesdays, 6am-7am, Wiseman's Park
 | 15 min | Throwing set                        |
 | 10 min | Poop tube                           |
 | 30 min | Mini, continuous, alternating rules |
+
+** DONE 30/04/2022
+
+| Time   | Activity                     |
+|--------+------------------------------|
+| 5 min  | Warm-up                      |
+| 15 min | Throwing set                 |
+| 15 min | 2v2 break drill with rewards |
+| 35 min | Mini                         |
+| 5min   | Sprints                      |
 
 * Goals/motivations [24/24]
 1. What are you hoping to get out of the experience on a personal
