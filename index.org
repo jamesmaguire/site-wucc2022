@@ -270,7 +270,6 @@ SCHEDULED: <2022-05-07 Sat>--<2022-05-08 Sun>
 | Aidan    | Y        |
 | Andy     | Y        |
 | Annie    | Y        |
-| Arun     | Y        |
 | Callum   | Y        |
 | Coby     | Y        |
 | Goose    | Y        |
@@ -283,12 +282,13 @@ SCHEDULED: <2022-05-07 Sat>--<2022-05-08 Sun>
 | Mandy    | Y        |
 | Matt     | Y        |
 | Mon      | Y        |
-| Nobu     | Sun only |
 | Rachel   | Y        |
 | Sam      | Y        |
 | Taylor   | Y        |
 | Thea     | Y        |
 | Tim      | Y        |
+| Nobu     | Sun only |
+| Arun     | N        |
 
 *** Rough schedule
 Playing a game throughout the weekend with a few points on between drills. Focus on mentally checking into frisbee mindset.
@@ -691,22 +691,6 @@ useful
 5. Yes
 6. Can you please add me back in that jokes conversation? I got kicked
    out 🙁
-** DONE Hannah M                                                   :noexport:
-1. Some good fris, Mandy didn't really give me a choice she just put
-   me in the chat and my name on the list
-2. I don't think this team will be going for a medal so for the team
-   to all be on the same wavelength and following the same plan,
-   putting the team plan first so that everyone can place having
-   enjoyed the experience
-*** Hidden                                                         :noexport:
-3. Lol no idea, session plans and small group drills that can be done
-   my a local group
-4. No thanks I have enough
-5. Maybe, but if I do come I won't be playing cause want to be injury
-   free for Crocs selections
-6. Only playing if I don't make Crocs will have an answer by the end
-   of January hopefully, I'm good at getting injured but also playing
-   through injuries so that shouldn't be a problem
 ** DONE Thea
 1. I signed up for this campaign for the opportunity to be a part of a
    team of likeminded and driven people. International campaigns (from
