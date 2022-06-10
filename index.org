@@ -327,6 +327,34 @@ Playing a game throughout the weekend with a few points on between drills. Focus
 - 5 pull, starting in front of endzone
 - 5 pull, starting different locations
 
+** Training camp 3
+SCHEDULED: <2022-06-10 Sat>--<2022-06-11 Sun>
+*** Rough schedule
+Playing a game throughout the weekend with a few points on between drills. Focus on mentally checking into frisbee mindset.
+
+|     Saturday |                   |
+|--------------+-------------------|
+| 08:00--08:30 | Nth gong park run |
+| 08:45--09:15 | Warmup + throws   |
+| 09:15--10:15 | Block 1           |
+| 10:15--11:45 | Game v Pie Wagon  |
+| 11:45--12:30 | Lunch             |
+| 12:30--13:30 | Block 2           |
+| 13:30--15:00 | Game v Pie Wagon  |
+| 15:00--15:30 | Cool down         |
+
+| Sunday                       |
+|------------------------------|
+| Queenscliff Classic, 3 games |
+
+*** DONE Block 1 Sideline initiation
+- Open side 1v1 cutting drill - sideline
+- 5 pull sideline plays
+
+*** DONE Block 2 Endzone
+- 5 pull, starting in front of endzone
+- 5 pull, starting different locations
+
 * Weekly trainings
 Wednesdays, 6am-7am, Wiseman's Park
 ** Schedule
