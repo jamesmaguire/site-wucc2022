@@ -354,6 +354,36 @@ SCHEDULED: <2022-06-10 Sat>--<2022-06-11 Sun>
 - 5 pull, starting in front of endzone
 - 5 pull, starting different locations
 
+** Training camp 4
+SCHEDULED: <2022-07-02 Sat>--<2022-07-03 Sun>
+
+|    Saturday |                   |
+|-------------+-------------------|
+| 10:00-10:30 | Warmup + throws   |
+| 10:30-12:00 | Block 1           |
+| 12:00-12:30 | Double box        |
+| 12:30-13:30 | Lunch             |
+| 13:30-15:00 | Block 2           |
+| 15:00-16:00 | Winner plays game |
+
+|      Sunday |                            |
+|-------------+----------------------------|
+| 09:00-09:30 | Warmup + throws            |
+| 09:30-10:30 | Winner plays game          |
+| 10:30-12:00 | Block 3                    |
+| 12:00-12:30 | Mandy's mystery activity   |
+| 12:30-13:15 | Lunch                      |
+| 13:15-13:45 | Full warmup                |
+| 13:45-15:15 | Game v gong (strict start) |
+| 15:15-15:30 | Cooldown, finish up        |
+  
+*** Block 1
+tbd
+*** Block 2
+tbd
+*** Block 3
+tbd
+
 * Weekly trainings
 Wednesdays, 6am-7am, Wiseman's Park
 ** Schedule
